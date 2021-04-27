@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/jasedwards/je-jest-helper/issues"
   },
-  "homepage": "https://github.com/jasedwards/je-jest-helper#readme"
+  "homepage": "https://github.com/jasedwards/je-jest-helper#readme",
+  "devDependencies": {
+    "generate-changelog": "^1.8.0"
+  }
 }
